@@ -51,6 +51,7 @@ const LANGUAGES_CONFIG = {
     [PROMPTV2]: {
         model: 'gpt-3.5-turbo-1106',
     },
+    
 }
 
 module.exports = { LANGUAGES_CONFIG }
